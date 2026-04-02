@@ -19,7 +19,7 @@
 
 *Building intelligent systems — from RAG pipelines to real-time dashboards*
 
-[`✦ Portfolio`](https://your-portfolio-link) &nbsp;·&nbsp; [`✦ LinkedIn`](https://linkedin.com/in/your-profile) &nbsp;·&nbsp; [`✦ GitHub`](https://github.com/your-username) &nbsp;·&nbsp; [`✦ Email`](mailto:ravseh88@gmail.com)
+[`✦ Portfolio`](https://your-portfolio-link) &nbsp;·&nbsp; [`✦ LinkedIn`](https://www.linkedin.com/in/raveesh-sehrawat/) &nbsp;·&nbsp; [`✦ GitHub`](https://github.com/RaveeshSehrawat) &nbsp;·&nbsp; [`✦ Email`](mailto:ravseh88@gmail.com)
 
 </div>
 
