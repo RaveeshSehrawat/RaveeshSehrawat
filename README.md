@@ -7,19 +7,19 @@
 <div align="center">
 
 ```
-                ██████╗  █████╗ ██╗   ██╗███████╗███████╗███████╗██╗  ██╗
-                ██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝██╔════╝██║  ██║
-                ██████╔╝███████║██║   ██║█████╗  █████╗  ███████╗███████║
-                ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ╚════██║██╔══██║
-                ██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗███████║██║  ██║
-                ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+██████╗  █████╗ ██╗   ██╗███████╗███████╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝██╔════╝██║  ██║
+██████╔╝███████║██║   ██║█████╗  █████╗  ███████╗███████║
+██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ╚════██║██╔══██║
+██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
 ### `Data Science & Machine Learning Engineer`
 
 *Building intelligent systems — from RAG pipelines to real-time dashboards*
 
-[`✦ Portfolio`](https://your-portfolio-link) &nbsp;·&nbsp; [`✦ LinkedIn`](https://www.linkedin.com/in/raveesh-sehrawat/) &nbsp;·&nbsp; [`✦ GitHub`](https://github.com/RaveeshSehrawat) &nbsp;·&nbsp; [`✦ Email`](mailto:ravseh88@gmail.com)
+[`✦ Portfolio`](https://raveesh.vercel.app/) &nbsp;·&nbsp; [`✦ LinkedIn`](https://www.linkedin.com/in/raveesh-sehrawat/) &nbsp;·&nbsp; [`✦ GitHub`](https://github.com/RaveeshSehrawat) &nbsp;·&nbsp; [`✦ Email`](mailto:ravseh88@gmail.com)
 
 </div>
 
